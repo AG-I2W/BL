@@ -1,0 +1,9 @@
+D:\Anshul\Interact2World\Interact2World\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Anshul\Interact2World\Interact2World\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Anshul\Interact2World\Interact2World\BusinessLogic\bin\Debug\DAL.dll
+D:\Anshul\Interact2World\Interact2World\BusinessLogic\bin\Debug\Data.dll
+D:\Anshul\Interact2World\Interact2World\BusinessLogic\bin\Debug\DAL.pdb
+D:\Anshul\Interact2World\Interact2World\BusinessLogic\bin\Debug\Data.pdb
+D:\Anshul\Interact2World\Interact2World\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Anshul\Interact2World\Interact2World\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Anshul\Interact2World\Interact2World\BusinessLogic\obj\Debug\BusinessLogic.pdb
